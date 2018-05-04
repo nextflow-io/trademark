@@ -115,7 +115,7 @@ or "[Name] Nextflow platform".
 
 You must obtain prior written approval from the CRG if you wish to use the Nextflow Trademark for any
 purposes that are not permitted above, including commercial purposes. Please contact the CRG
-on CRG_BusinessInnovation@CRG.eu
+on CRG_BusinessInnovation@CRG.eu.
 
 Please note that the Nextflow trademark may be used for descriptive or reference purposes
 (referring to the Nextflow technologies and/or community) in accordance with Spanish trademark law.
@@ -123,4 +123,4 @@ Please note that the Nextflow trademark may be used for descriptive or reference
 ### Contacting us
 
 If you wish to have permission for any of the uses above or for any other use which is not specifically
-referred to in this policy, please contact us at CRG_BusinessInnovation@CRG.eu
+referred to in this policy, please contact us at CRG_BusinessInnovation@CRG.eu.
