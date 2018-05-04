@@ -1,5 +1,9 @@
 # NEXTFLOW Trademark Policy
 
+<p align='center'>
+<img src='nextflow2014_no-bg.png' alt='nextflow logo' width='400px' />
+</p>
+
 "Nextflow®" is a [registered trademark](https://euipo.europa.eu/eSearch/#details/trademarks/016913626) of Centre de Recerca Genómica de Barcelona, Spain ("CRG").
 
 The objective of this policy is to encourage widespread use of the Nextflow trademark (including
