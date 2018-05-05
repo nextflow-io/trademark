@@ -22,7 +22,7 @@ permission in writing of CRG.
 a software product or services (including SaaS services), any domain name or URL.
 * If you are developing a software application (e.g. a data analysis workflow), or creating services
 that use or interact with Nextflow, you may reference Nextflow in a *descriptive* manner (e.g. "based on Nextflow"),
-but must avoid any direct implication or an endorsement by the Nextflow project or its author.
+but must avoid any direct implication or an endorsement by the Nextflow project or its authors.
 * You can use the Nextflow trademark in discussion, commentary, criticism or parody, provided that you do not imply
 endorsement by the Nextflow project or its authors.
 * You can write articles, create websites, blogs or talk about Nextflow, provided that it is clear that you are
