@@ -30,7 +30,7 @@ in no way speaking for or on behalf of Nextflow project or its authors and that 
 * If you want to use the Nextflow mark outside what is permitted there, please contact us.
 
 The sections below describe what is allowed, what isn't allowed, and cases in which you should ask permission. If you have
-any doubt, or if you believe any mark is being used in breach of this policy, please contact us at CRG_BusinessInnovation@CRG.eu
+any doubt, or if you believe any mark is being used in breach of this policy, please contact us at nextflow@crg.eu
 and we will be in touch with you shortly.
 
 ### Permitted uses
@@ -115,7 +115,7 @@ or "[Name] Nextflow platform".
 
 You must obtain prior written approval from the CRG if you wish to use the Nextflow Trademark for any
 purposes that are not permitted above, including commercial purposes. Please contact the CRG
-on CRG_BusinessInnovation@CRG.eu.
+on nextflow@crg.eu.
 
 Please note that the Nextflow trademark may be used for descriptive or reference purposes
 (referring to the Nextflow technologies and/or community) in accordance with Spanish trademark law.
@@ -123,4 +123,4 @@ Please note that the Nextflow trademark may be used for descriptive or reference
 ### Contacting us
 
 If you wish to have permission for any of the uses above or for any other use which is not specifically
-referred to in this policy, please contact us at CRG_BusinessInnovation@CRG.eu.
+referred to in this policy, please contact us at nextflow@CRG.eu.
