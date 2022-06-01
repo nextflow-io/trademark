@@ -2,9 +2,9 @@
 
 <p align='center'>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="nextflow2014_no-bg-bright.png" width='400px'>
-        <source media="(prefers-color-scheme: light)" srcset="nextflow2014_no-bg.png" width='400px'>
-        <img alt="Nextflow logo" src="nextflow2014_no-bg.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow2014_no-bg-bright.png" width='400px'>
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow2014_no-bg.png" width='400px'>
+        <img alt="Nextflow logo" src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow2014_no-bg.png">
     </picture>
 </p>
 
