@@ -8,7 +8,7 @@
     </picture>
 </p>
 
-"Nextflow®" is a [registered trademark](https://euipo.europa.eu/eSearch/#details/trademarks/016913626) of Centre de Recerca Genómica de Barcelona, Spain ("CRG").
+"Nextflow®" is a [registered trademark](https://euipo.europa.eu/eSearch/#details/trademarks/016913626) of Seqera Labs, Spain.
 
 The objective of this policy is to encourage widespread use of the Nextflow trademark (including
 both the coloured logo above and the word) by our community while regulating that use in order to
@@ -21,7 +21,7 @@ This helps Nextflow build a reputation that will not be damaged by confusion aro
 
 ### In summary:
 * Third parties ("you") can use the Nextflow trademark, in accordance with these guidelines, or with
-permission in writing of CRG.
+permission in writing of Seqera Labs.
 * Express permission is required to use the Nextflow trademarks in any name or title that *identifies*
 a software product or services (including SaaS services), any domain name or URL.
 * If you are developing a software application (e.g. a data analysis workflow), or creating services
@@ -34,14 +34,14 @@ in no way speaking for or on behalf of Nextflow project or its authors and that 
 * If you want to use the Nextflow mark outside what is permitted there, please contact us.
 
 The sections below describe what is allowed, what isn't allowed, and cases in which you should ask permission. If you have
-any doubt, or if you believe any mark is being used in breach of this policy, please contact us at nextflow@crg.eu
+any doubt, or if you believe any mark is being used in breach of this policy, please contact us at info@seqera.io
 and we will be in touch with you shortly.
 
 ### Permitted uses
 
 Certain uses of the Nextflow trademark do not require specific permission.
 
-*	**Community use**. Nextflow was and is still being built by the CRG and the Nextflow project collaborators, largely
+*	**Community use**. Nextflow was and is still being built by the Seqera Labs and the Nextflow project collaborators, largely
 for the benefit of the scientific community. Nextflow is distributed under an open source license, principally to
 encourage use and further development of the platform in an open, collaborative and free manner. Members of this
 community may use the Nextflow trademark for the purposes of discussion, development and advocacy.
@@ -117,9 +117,9 @@ or "[Name] Nextflow platform".
 "nextflow.[your-company].com/org/etc.").
 * Use for commercial merchandising purposes, e.g. on t-shirts and the like.
 
-You must obtain prior written approval from the CRG if you wish to use the Nextflow Trademark for any
-purposes that are not permitted above, including commercial purposes. Please contact the CRG
-on nextflow@crg.eu.
+You must obtain prior written approval from the Seqera Labs if you wish to use the Nextflow Trademark for any
+purposes that are not permitted above, including commercial purposes. Please contact the Seqera Labs
+on info@seqera.io.
 
 Please note that the Nextflow trademark may be used for descriptive or reference purposes
 (referring to the Nextflow technologies and/or community) in accordance with Spanish trademark law.
@@ -127,4 +127,4 @@ Please note that the Nextflow trademark may be used for descriptive or reference
 ### Contacting us
 
 If you wish to have permission for any of the uses above or for any other use which is not specifically
-referred to in this policy, please contact us at nextflow@CRG.eu.
+referred to in this policy, please contact us at info@seqera.io.
