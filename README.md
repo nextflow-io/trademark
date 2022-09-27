@@ -8,7 +8,7 @@
     </picture>
 </p>
 
-"Nextflow®" is a [registered trademark](https://euipo.europa.eu/eSearch/#details/trademarks/016913626) of Seqera Labs, Spain.
+"Nextflow®" is a [registered trademark](https://euipo.europa.eu/eSearch/#details/trademarks/016913626) of Seqera Labs, S.L.
 
 The objective of this policy is to encourage widespread use of the Nextflow trademark (including
 both the coloured logo above and the word) by our community while regulating that use in order to
