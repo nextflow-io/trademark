@@ -2,9 +2,9 @@
 
 <p align='center'>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow2014_no-bg-bright.png" width='400px'>
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow2014_no-bg.png" width='400px'>
-        <img alt="Nextflow logo" src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow2014_no-bg.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-logo-bg-dark.png" width='400px'>
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-logo-bg-light.png" width='400px'>
+        <img alt="Nextflow logo" src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-logo-bg-light.png">
     </picture>
 </p>
 
@@ -41,12 +41,12 @@ and we will be in touch with you shortly.
 
 Certain uses of the Nextflow trademark do not require specific permission.
 
-*	**Community use**. Nextflow was and is still being built by the Seqera Labs and the Nextflow project collaborators, largely
+* **Community use**. Nextflow was and is still being built by the Seqera Labs and the Nextflow project collaborators, largely
 for the benefit of the scientific community. Nextflow is distributed under an open source license, principally to
 encourage use and further development of the platform in an open, collaborative and free manner. Members of this
 community may use the Nextflow trademark for the purposes of discussion, development and advocacy.
 
-*	**Non-commercial (e.g. academic) use**. This type of use of the Nextflow trademark is permitted without further
+* **Non-commercial (e.g. academic) use**. This type of use of the Nextflow trademark is permitted without further
 authorisation, provided that you do so in accordance with these guidelines, there is there is no commercial intent
 behind the use, you are referring to the Nextflow project, tools and/or materials; and there is no suggestion
 (through words or appearance) that your project is approved, sponsored, or affiliated with the Nextflow project
@@ -59,7 +59,7 @@ using Nextflow, you may use the trademark in a way that describes how Nextflow i
 For example, acceptable use would be "[Name] is a workflow application based on Nextflow", "[Name] is a Nextflow-driven
 workflow application".
 
-*	**Developing and modifying the Nextflow platform and tools**. The ability to customise Nextflow platform and tools to
+* **Developing and modifying the Nextflow platform and tools**. The ability to customise Nextflow platform and tools to
 meet your specific needs is one of the great strengths of free and open source software. You may adapt and modify
 Nextflow platform and tools in accordance with the corresponding license (which includes attribution to the Nextflow
 project, for which you may obviously use the Nextflow trademark). If you are creating a derivative work of Nextflow
@@ -73,7 +73,7 @@ you may use the trademark in a way which describes the intent of your applicatio
 your application or product. For example, if you are developing an extension component for Nextflow, acceptable
 project names would be "[Name] plugin for Nextflow" or "[Name] is a platform integrating Nextflow software".
 
-*	**Commentary about Nextflow**. Using the trademarks in discussion, commentary or criticism (or even parody),
+* **Commentary about Nextflow**. Using the trademarks in discussion, commentary or criticism (or even parody),
 in ways that unequivocally do not imply endorsement, is permissible. Anyone is free to write articles, create
 websites, blog about, or talk about Nextflow - as long as it's clear to everyone - including people completely
 unfamiliar with Nextflow - that they are simply referring to Nextflow and in no way speaking for the Nextflow
@@ -94,11 +94,11 @@ skilled with Nextflow". Nor may you use the Nextflow trademark for promoting thi
 activities inferring any sponsorship, affiliation, or creation/founding of the project.   
 
 For example, the following statements are not permitted:
-*	Nextflow by [Your Company]
-*	Nextflow - [Your Company]
-*	[Your Name/Company] - Nextflow
-*	Nextflow Quick Start by [Your Company]
-*	Nextflow application by [Your Company]
+* Nextflow by [Your Company]
+* Nextflow - [Your Company]
+* [Your Name/Company] - Nextflow
+* Nextflow Quick Start by [Your Company]
+* Nextflow application by [Your Company]
 
 We reserve the right to review all usage within the open source community and commercial partners and
 other entities, and to object to any usage that appears to overstep the bounds of discussion and good-faith.
