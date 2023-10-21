@@ -1,11 +1,12 @@
 # NEXTFLOW Trademark Policy
 
-<p align='center'>
+<p align="center">
+  <a href="https://nextflow.io/">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-logo-bg-dark.png" width='400px'>
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-logo-bg-light.png" width='400px'>
-        <img alt="Nextflow logo" src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-logo-bg-light.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nextflow-io/trademark/blob/master/nextflow-logo-bg-dark.png?raw=true">
+        <img alt="Nextflow Logo" src="https://github.com/nextflow-io/trademark/blob/master/nextflow-logo-bg-light.png?raw=true">
     </picture>
+  </a>
 </p>
 
 "Nextflow®" is a [registered trademark](https://euipo.europa.eu/eSearch/#details/trademarks/016913626) of Seqera Labs, S.L.
